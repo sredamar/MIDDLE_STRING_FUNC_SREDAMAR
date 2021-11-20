@@ -1,5 +1,4 @@
 #include "middle_str.h"
-
 int itc_countWords(string str){
     int counter = 0;
     bool proverka = false;
@@ -15,4 +14,3 @@ int itc_countWords(string str){
         if(((str[i + 1] == ' ') || (str[i + 1] == '\0')) && (proverka == true)){
             counter++;}}
 return counter;}
-
