@@ -1,5 +1,4 @@
 #include "middle_str.h"
-
 string itc_Cezar(string str, int k) {
     long long i = 0;
     string shifr = "";
