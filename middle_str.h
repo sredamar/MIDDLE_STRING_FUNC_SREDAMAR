@@ -11,4 +11,5 @@ unsigned char itc_changeCase(unsigned char c);
 long long itc_len_middle(string str);
 bool itc_compare(string s1, string s2);
 int itc_countWords(string str);
+char itc_sameChar(string str);
 #endif // MIDDLE_STR_H_INCLUDED
