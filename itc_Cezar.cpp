@@ -26,4 +26,3 @@ string itc_Cezar(string str, int k) {
             shifr += str[i];
         i++;}
 return shifr;}
-
