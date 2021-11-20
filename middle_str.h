@@ -14,4 +14,5 @@ int itc_countWords(string str);
 char itc_sameChar(string str);
 bool itc_isFirstInSecond(string s1, string s2); //8
 int itc_find_middle_str(string str1, string str2); //podstroka
+string itc_Cezar(string str, int k);
 #endif // MIDDLE_STR_H_INCLUDED
