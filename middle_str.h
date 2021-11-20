@@ -17,4 +17,6 @@ string itc_Cezar(string str, int k); //9
 string itc_slice_middle_str(string str, int s_start, int s_end); //help_func_10
 int itc_mymin_middle_str(int a, int b); //minimum_chisel_dlya_10func
 string itc_rmFreeSpace(string str); //10
+bool itc_isIp(string str); //11
+long long itc_StrChis(string str); //str_v_chislo
 #endif // MIDDLE_STR_H_INCLUDED
