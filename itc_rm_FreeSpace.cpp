@@ -1,4 +1,5 @@
 #include "middle_str.h"
+
 string itc_rmFreeSpace(string str){
     string nov = "";
     long long i = 0, dlina = itc_len_middle(nov);
