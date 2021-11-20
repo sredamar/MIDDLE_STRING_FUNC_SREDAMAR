@@ -1,4 +1,5 @@
 #include "middle_str.h"
+
 bool itc_isIp(string str) {
     long long i = 0, len = itc_len_middle(str), counter = 0;
     int max_dlin = 15;
