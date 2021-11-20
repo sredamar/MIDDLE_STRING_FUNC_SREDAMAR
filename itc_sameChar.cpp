@@ -1,5 +1,4 @@
 #include "middle_str.h"
-
 char itc_sameChar(string str) {
     char symbol = ' ';
     long long i = 0, len = itc_len_middle(str), counter = 1;
