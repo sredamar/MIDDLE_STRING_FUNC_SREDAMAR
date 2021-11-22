@@ -1,5 +1,4 @@
 #include "middle_str.h"
-
 int itc_find_str(string str1, string str2){
     long long len = itc_len(str1);
     long long length = itc_len(str2);
