@@ -1,5 +1,5 @@
 #include "middle_str.h"
-int itc_find_str(string str1, string str2){
+int itc_find_middle_str(string str1, string str2){
     long long len = itc_len_middle(str1);
     long long length = itc_len_middle(str2);
     long long counter = 0;
